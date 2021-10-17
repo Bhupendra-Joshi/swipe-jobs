@@ -10,7 +10,7 @@ import {
   WorkerJobMatchesScreen,
   JobDetailsScreen
 } from '@screens'
-import { styles } from './app-navigator'
+import { styles } from './app-navigator.styles'
 
 const Stack = createNativeStackNavigator()
 
