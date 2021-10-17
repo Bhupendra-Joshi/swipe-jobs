@@ -1,0 +1,30 @@
+{
+
+  "common": {
+    "appName": "SWIPE JOBS",
+    "swipe": "swipe",
+    "jobs": "jobs",
+    "findJobs": "Find Jobs",
+    "currencyDollar": "$",
+    "miles": "mile s"
+  },
+
+  "profile": {
+    "name":"Name",
+    "email":"Email",
+    "phoneNumber":"Phone Number",
+    "address":"Address",
+    "zone":"Zone",
+    "maxJobDistance":"Maximum Job Distance"
+  },
+
+  "jobDetail": {
+    "distance": "Distance",
+    "hourlyRate": "Hourly Rate",
+    "shiftDates": "Shift Dates",
+    "reportTo": "Report To",
+    "requirements": "Requirements",
+    "location": "Location",
+    "milesFromYourLocation": "__DISTANCE__ miles from your job search location"
+  }
+}
